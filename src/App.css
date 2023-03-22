@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+h1 {
+  text-transform: uppercase;
+  justify-content: space-around;
+  font-weight: 500;
+}
